@@ -1,4 +1,4 @@
-#!e:\Code\django-udemy-clone-master\.venv\Scripts\python.exe
+#!c:\projects\django-udemy-clone-master\.venv\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
