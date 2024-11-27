@@ -243,7 +243,6 @@ fabric.properties
 # Pyre type checker
 
 ### Python Patch ###
-.venv/
 
 __pycache__/
 __pycache__
