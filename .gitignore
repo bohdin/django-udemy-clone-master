@@ -1,3 +1,6 @@
+.venv/*
+venv/*
+Scripts
 .idea
 ### Django ###
 *.log
